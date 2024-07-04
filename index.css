@@ -1,0 +1,77 @@
+*{
+   margin: 0;
+   padding: 0; 
+   color: white;
+   background-color: black;
+}
+
+#navbar{
+    height: 60px;
+    background-color: black;
+}
+
+button{
+    background-color: #f0880f;
+}
+button:hover{
+    color: black;
+}
+input{
+    background-color: #ffffff;
+    color: black;
+}
+#logo{
+    color: #f0880f;
+    font-size: 25px;
+}
+a{
+    margin-right: 200px;
+    overflow: hidden;
+}
+a:hover{
+    text-decoration: underline  #f0880f;
+    width: 2px;
+}
+img{
+    width: 1366px;
+    height: 300px;
+    border: #ffffff solid;
+}
+#watch{
+    height: 400px;
+    width: 290px;
+    margin: 15px;
+    border: white solid;
+    display: inline-block;
+
+}
+#watch img{
+    width: 285px;
+    height: 250px;
+}
+#watch h2{
+    text-align: center;
+    margin-bottom: 5px;
+    color: white;
+}
+#watch p{
+    margin: 96px 0px 0px 96px;
+    text-decoration: line-through;
+    display: inline;
+    font-size: large;
+    font-weight: 500;
+}
+#watch button{
+    width: 230px;
+    height: 40px;
+    border-radius: 8%;
+    margin: 15px 50px 15px 30px;
+    color: black;
+    background-color: #ffffff;
+}
+
+#watch button:hover{
+    background-color: #f0880f;
+}
+
+
